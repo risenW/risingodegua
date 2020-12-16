@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "359b08a30946f3dd7adeca59ca1b511d",
+    "revision": "ecfb0728689343093f85bc4bf8d63102",
     "url": "/risingodegua/index.html"
   },
   {
-    "revision": "e4064f8730acb46644d6",
+    "revision": "3120c9aabadbf4e597fe",
     "url": "/risingodegua/static/css/3.798b2321.chunk.css"
   },
   {
-    "revision": "dcc6b9d1fd08a09c5128",
+    "revision": "c5867e68cf740cc01f75",
     "url": "/risingodegua/static/css/4.982340dd.chunk.css"
   },
   {
-    "revision": "56d64ed454a341cebe52",
-    "url": "/risingodegua/static/css/main.4ba7d981.chunk.css"
+    "revision": "28432fbed98ffd9cbf23",
+    "url": "/risingodegua/static/css/main.6c259602.chunk.css"
   },
   {
-    "revision": "5bab98c5cea8f93ec4b2",
-    "url": "/risingodegua/static/js/2.1df62d8c.chunk.js"
+    "revision": "f34cac7fe0b07c51f24a",
+    "url": "/risingodegua/static/js/2.eed60418.chunk.js"
   },
   {
     "revision": "7e0fd0c09333f2e525fa479f52af448a",
-    "url": "/risingodegua/static/js/2.1df62d8c.chunk.js.LICENSE.txt"
+    "url": "/risingodegua/static/js/2.eed60418.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e4064f8730acb46644d6",
-    "url": "/risingodegua/static/js/3.4d2761e8.chunk.js"
+    "revision": "3120c9aabadbf4e597fe",
+    "url": "/risingodegua/static/js/3.38d9536a.chunk.js"
   },
   {
-    "revision": "dcc6b9d1fd08a09c5128",
-    "url": "/risingodegua/static/js/4.b97eb72f.chunk.js"
+    "revision": "c5867e68cf740cc01f75",
+    "url": "/risingodegua/static/js/4.2e7a309b.chunk.js"
   },
   {
-    "revision": "56d64ed454a341cebe52",
-    "url": "/risingodegua/static/js/main.eaacecff.chunk.js"
+    "revision": "28432fbed98ffd9cbf23",
+    "url": "/risingodegua/static/js/main.42a8c074.chunk.js"
   },
   {
-    "revision": "a17c2efd6e01188ea3c5",
-    "url": "/risingodegua/static/js/runtime-main.be73a384.js"
+    "revision": "87bf03ef30a635488b14",
+    "url": "/risingodegua/static/js/runtime-main.b86d86e1.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -90,10 +90,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b4ee78c83df6052f31419bfd1a29dfc2",
     "url": "/risingodegua/static/media/irsl.b4ee78c8.png"
-  },
-  {
-    "revision": "25bf045ca257e971124f3997d89f321c",
-    "url": "/risingodegua/static/media/logo.25bf045c.svg"
   },
   {
     "revision": "b5cef5396c028e17c9b23f2b2d35d9a7",
