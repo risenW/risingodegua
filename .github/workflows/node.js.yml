@@ -32,7 +32,10 @@ jobs:
         git config --global user.name $user_name
         git config --global user.email $user_email
         git remote set-url origin https://${github_token}@github.com/${repository}
-        yarn run deploy
+      uses: crazy-max/ghaction-github-pages@v1
+      with:
+        target_branch: gh-pages
+        build_dir: build
       env:
           GITHUB_TOKEN: ${{ secrets.REACT_APP_GITHUB_TOKEN }}
           user_name: 'github-actions[bot]'
