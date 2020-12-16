@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useState, useEffect ,lazy, Suspense } from "react";
 import ApolloClient, { gql } from "apollo-boost";
 import { openSource } from "../../portfolio";

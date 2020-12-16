@@ -8,7 +8,7 @@ import Projects from "./projects/Projects";
 import Achievement from "./achievement/Achievement";
 import Blogs from "./blogs/Blogs";
 import Papers from "./paper/Paper";
-import Contact from "./contact/Contact";
+// import Contact from "./contact/Contact";
 import Footer from "../components/footer/Footer";
 import Talks from "./talks/Talks";
 import Podcast from "./podcast/Podcast";
