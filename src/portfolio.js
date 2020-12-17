@@ -12,7 +12,7 @@ const greeting = {
     "A Software and Machine Learning Engineer. I combine my experience as a Software Engineer with Data science to build data driven applications using languagaes like Python, JavaScript and some other awesome frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1e6__1eQ20voFvW5Nwyqi2MGtlDLz6FzI/view?usp=sharing",
+    "https://drive.google.com/file/d/1A8stNDtNbmO6vmn49J_ONfqyMPLqOxn8/view?usp=sharing",
 };
 
 // Your Social Media Link
