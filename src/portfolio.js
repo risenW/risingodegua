@@ -9,10 +9,10 @@ const greeting = {
   username: "Rising Odega",
   title: "Hi all, I'm Rising",
   subTitle: emoji(
-    "A Software and Machine Learning Engineer. I combine my experience as a Software Engineer with Data science to build data driven applications using languagaes like Python, JavaScript and some other awesome frameworks."
+    "A full stack software and machine learning engineer. I combine my experience as a software engineer with data science to build data driven applications using languagaes like Python, JavaScript and some other awesome frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1A8stNDtNbmO6vmn49J_ONfqyMPLqOxn8/view?usp=sharing",
+    "",
 };
 
 // Your Social Media Link
@@ -168,6 +168,18 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Chief Technology Officer",
+      company: "Philanthrolab",
+      companylogo: require("./assets/images/philan-logo.svg"),
+      date: "Jan 2020 – Present",
+      desc:
+        "PhilanthroLab is a company on a mission to empower people and enterprise with meaningful innovation, at scale. I currently:",
+      descBullets: [
+        "I currently lead the development of a social service search and management engine integrated with knowledge graphs, full-text search, and location-based service recommendations.",
+        "I currently lead the development of a data archiving and visualization portal.",
+      ],
+    },
+    {
       role: "Software Engineer",
       company: "Datopian",
       companylogo: require("./assets/images/datopian-bash-png.png"),
@@ -255,13 +267,26 @@ const achievementSection = {
 
   achivementsCards: [
     {
+      title: "Github Star",
+      subtitle:
+        "The GitHub Stars program offers impactful developers an opportunity to showcase their work, reach more people, and shape the future of GitHub.",
+      image: require("./assets/images/gitstar.png"),
+      footerLink: [
+        {
+          name: "Recognition Link",
+          url:
+            "https://stars.github.com/profiles/risenw/",
+        },
+      ],
+    },
+    {
       title: "Google Developer Expert in Machine Learning",
       subtitle:
         "The Google Developers Experts program is a global network of highly experienced technology experts, influencers and thought leaders who actively support developers, companies and tech communities by speaking at events, publishing content. ",
       image: require("./assets/images/experts.jpeg"),
       footerLink: [
         {
-          name: "Recognition",
+          name: "Recognition Link",
           url:
             "https://developers.google.com/community/experts/directory/profile/profile-rising_odegua",
         },
@@ -274,7 +299,7 @@ const achievementSection = {
       image: require("./assets/images/gcp.png"),
       footerLink: [
         {
-          name: "Certification",
+          name: "Certification Link",
           url:
             "https://www.coursera.org/account/accomplishments/specialization/certificate/X4QPVEWC2GN6",
         },
@@ -287,7 +312,7 @@ const achievementSection = {
       image: require("./assets/images/microsoft.webp"),
       footerLink: [
         {
-          name: "Certification",
+          name: "Certification Link",
           url:
             "https://drive.google.com/file/d/1d_89CqEM-mjtdIODZ_OhQBJwbwAIGKmC/view?usp=sharing",
         },
@@ -300,7 +325,7 @@ const achievementSection = {
       image: require("./assets/images/alc.png"),
       footerLink: [
         {
-          name: "Certification",
+          name: "Certification Link",
           url:
             "https://drive.google.com/file/d/1r-mo-klEqktqTMA50ca8L2cjFFnN4yA_/view?usp=sharing",
         },

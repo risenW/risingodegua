@@ -13,7 +13,7 @@ import Footer from "../components/footer/Footer";
 import Talks from "./talks/Talks";
 import Podcast from "./podcast/Podcast";
 import Top from "./topbutton/Top";
-import Twitter from "./twitter-embed/twitter";
+// import Twitter from "./twitter-embed/twitter";
 import Profile from "./profile/Profile";
 
 export default class Main extends Component {
@@ -30,7 +30,7 @@ export default class Main extends Component {
         <Papers />
         <Blogs />
         <Talks />
-        <Twitter />
+        {/* <Twitter /> */}
         <Podcast />
         <Profile />
         <Footer />
