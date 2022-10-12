@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/risingodegua/static/css/main.b7964d3c.chunk.css",
-    "main.js": "/risingodegua/static/js/main.ce153811.chunk.js",
-    "main.js.map": "/risingodegua/static/js/main.ce153811.chunk.js.map",
-    "runtime-main.js": "/risingodegua/static/js/runtime-main.319daf7b.js",
-    "runtime-main.js.map": "/risingodegua/static/js/runtime-main.319daf7b.js.map",
+    "main.css": "/risingodegua/static/css/main.78709699.chunk.css",
+    "main.js": "/risingodegua/static/js/main.a21f05e4.chunk.js",
+    "main.js.map": "/risingodegua/static/js/main.a21f05e4.chunk.js.map",
+    "runtime-main.js": "/risingodegua/static/js/runtime-main.14e991ce.js",
+    "runtime-main.js.map": "/risingodegua/static/js/runtime-main.14e991ce.js.map",
     "static/js/2.23e75b39.chunk.js": "/risingodegua/static/js/2.23e75b39.chunk.js",
     "static/js/2.23e75b39.chunk.js.map": "/risingodegua/static/js/2.23e75b39.chunk.js.map",
-    "static/css/3.514e8b8e.chunk.css": "/risingodegua/static/css/3.514e8b8e.chunk.css",
+    "static/css/3.b46efcd8.chunk.css": "/risingodegua/static/css/3.b46efcd8.chunk.css",
     "static/js/3.54352a19.chunk.js": "/risingodegua/static/js/3.54352a19.chunk.js",
     "static/js/3.54352a19.chunk.js.map": "/risingodegua/static/js/3.54352a19.chunk.js.map",
-    "static/css/4.fb9636f4.chunk.css": "/risingodegua/static/css/4.fb9636f4.chunk.css",
+    "static/css/4.fb2adc31.chunk.css": "/risingodegua/static/css/4.fb2adc31.chunk.css",
     "static/js/4.b72cbd19.chunk.js": "/risingodegua/static/js/4.b72cbd19.chunk.js",
     "static/js/4.b72cbd19.chunk.js.map": "/risingodegua/static/js/4.b72cbd19.chunk.js.map",
     "index.html": "/risingodegua/index.html",
-    "precache-manifest.df59413e6dcdbea5043de5a3b6db4531.js": "/risingodegua/precache-manifest.df59413e6dcdbea5043de5a3b6db4531.js",
+    "precache-manifest.5576955f6606d1b4734c9642bb03bd8b.js": "/risingodegua/precache-manifest.5576955f6606d1b4734c9642bb03bd8b.js",
     "service-worker.js": "/risingodegua/service-worker.js",
-    "static/css/3.514e8b8e.chunk.css.map": "/risingodegua/static/css/3.514e8b8e.chunk.css.map",
-    "static/css/4.fb9636f4.chunk.css.map": "/risingodegua/static/css/4.fb9636f4.chunk.css.map",
-    "static/css/main.b7964d3c.chunk.css.map": "/risingodegua/static/css/main.b7964d3c.chunk.css.map",
+    "static/css/3.b46efcd8.chunk.css.map": "/risingodegua/static/css/3.b46efcd8.chunk.css.map",
+    "static/css/4.fb2adc31.chunk.css.map": "/risingodegua/static/css/4.fb2adc31.chunk.css.map",
+    "static/css/main.78709699.chunk.css.map": "/risingodegua/static/css/main.78709699.chunk.css.map",
     "static/js/2.23e75b39.chunk.js.LICENSE.txt": "/risingodegua/static/js/2.23e75b39.chunk.js.LICENSE.txt",
     "static/media/index.css": "/risingodegua/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/access.jpeg": "/risingodegua/static/media/access.e731cf83.jpeg",
@@ -42,9 +42,9 @@
     "static/media/TalkCard.css": "/risingodegua/static/media/talksCardBack.13780cdd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.319daf7b.js",
+    "static/js/runtime-main.14e991ce.js",
     "static/js/2.23e75b39.chunk.js",
-    "static/css/main.b7964d3c.chunk.css",
-    "static/js/main.ce153811.chunk.js"
+    "static/css/main.78709699.chunk.css",
+    "static/js/main.a21f05e4.chunk.js"
   ]
 }

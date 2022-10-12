@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/risingodegua/precache-manifest.df59413e6dcdbea5043de5a3b6db4531.js"
+  "/risingodegua/precache-manifest.5576955f6606d1b4734c9642bb03bd8b.js"
 );
 
 self.addEventListener('message', (event) => {

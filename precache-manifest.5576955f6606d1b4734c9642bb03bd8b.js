@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "221da6b313d4ed3a42759f488aa323a5",
+    "revision": "85a6b27166bfd7a2c21b58ec079a1c98",
     "url": "/risingodegua/index.html"
   },
   {
-    "revision": "ca7ce41392f6066c4a23",
-    "url": "/risingodegua/static/css/3.514e8b8e.chunk.css"
+    "revision": "faacff3e8b6833ceca7d",
+    "url": "/risingodegua/static/css/3.b46efcd8.chunk.css"
   },
   {
-    "revision": "577d9681c38e330f6134",
-    "url": "/risingodegua/static/css/4.fb9636f4.chunk.css"
+    "revision": "de2793eecdf63d8cd070",
+    "url": "/risingodegua/static/css/4.fb2adc31.chunk.css"
   },
   {
-    "revision": "6a9a963f54b5a8febe06",
-    "url": "/risingodegua/static/css/main.b7964d3c.chunk.css"
+    "revision": "3387a9dcc46da441daf3",
+    "url": "/risingodegua/static/css/main.78709699.chunk.css"
   },
   {
     "revision": "118fa9bf91098f500970",
@@ -24,20 +24,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/risingodegua/static/js/2.23e75b39.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ca7ce41392f6066c4a23",
+    "revision": "faacff3e8b6833ceca7d",
     "url": "/risingodegua/static/js/3.54352a19.chunk.js"
   },
   {
-    "revision": "577d9681c38e330f6134",
+    "revision": "de2793eecdf63d8cd070",
     "url": "/risingodegua/static/js/4.b72cbd19.chunk.js"
   },
   {
-    "revision": "6a9a963f54b5a8febe06",
-    "url": "/risingodegua/static/js/main.ce153811.chunk.js"
+    "revision": "3387a9dcc46da441daf3",
+    "url": "/risingodegua/static/js/main.a21f05e4.chunk.js"
   },
   {
-    "revision": "6c483599acdf52cd1d4b",
-    "url": "/risingodegua/static/js/runtime-main.319daf7b.js"
+    "revision": "c236f114a7c6d79c1fe7",
+    "url": "/risingodegua/static/js/runtime-main.14e991ce.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
