@@ -27,8 +27,8 @@ jobs:
     - run: yarn  
     - run: yarn run test
     - run: yarn run build 
-    - run: git config --global user.name $user_name 
-    - run: git config --global user.email $user_email
+    # - run: git config --global user.name $user_name 
+    # - run: git config --global user.email $user_email
     - run: git remote set-url origin https://${github_token}@github.com/${repository}
     - name: Deploy      
       uses: crazy-max/ghaction-github-pages@v1
