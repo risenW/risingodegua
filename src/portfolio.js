@@ -6,10 +6,10 @@ import emoji from "react-easy-emoji";
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  username: "Rising Odega",
+  username: "Rising Odegua",
   title: "Hi all, I'm Rising",
   subTitle: emoji(
-    "A full stack software and machine learning engineer. I combine my experience as a software engineer with data science to build data driven applications using languagaes like Python, JavaScript and some other awesome frameworks."
+    "A full stack software and machine learning engineer. I combine my experience as a software engineer with data science to build data driven applications."
   ),
   resumeLink:
     "",
@@ -168,10 +168,22 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Chief Technology Officer",
+      role: "Full Stack Software Engineer",
+      company: "Nossa Data",
+      companylogo: require("./assets/images/nossa.webp"),
+      date: "April 2022 – Present",
+      desc:
+      "Nossa Data is revolutionising ESG data management and analytics with the aim to become a global leader in providing environmental, social and governance [ESG] technology.",
+      descBullets: [
+        "Building a data-driven platform for ESG data reporting, management and analytics",
+        "Works at the intersection of data science, software engineering, and product development",
+      ],
+    },
+    {
+      role: "Engineering Lead",
       company: "Philanthrolab",
       companylogo: require("./assets/images/philan-logo.svg"),
-      date: "Jan 2020 – Present",
+      date: "Jan 2020 – March 2022",
       desc:
         "PhilanthroLab is a company on a mission to empower people and enterprise with meaningful innovation, at scale. I currently:",
       descBullets: [
@@ -217,7 +229,7 @@ const workExperiences = {
       ],
     },
     {
-      role: "Lead Web Developer",
+      role: "Software Engineer",
       company: "IRSL Consulting",
       companylogo: require("./assets/images/irsl.png"),
       date: "Dec 2015 – Oct 2017",
@@ -236,7 +248,7 @@ const workExperiences = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
+  githubConvertedToken: process.env.REACT_APP_PERSONAL_WEBSITE_TOKEN,
   githubUserName: "risenW", // Change to your github username to view your profile in Contact Section.
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to false
 };
@@ -594,7 +606,7 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Want to offer me a job, discuss a project or just want to say hi? My Inbox is open for all.",
+    "Want to say hi? My Inbox is open for all.",
   email_address: "risingodegua@gmail.com",
 };
 
